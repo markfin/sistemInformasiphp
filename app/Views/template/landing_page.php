@@ -11,3 +11,16 @@
 
 
 <body>
+    <?= $this->include('template/navbar') ;?>
+    <?= $this->renderSection('content') ;?>
+
+
+    <script>
+    feather.replace();
+    </script>
+    <script src="<?php echo base_url('script.js')?>">
+
+    </script>
+</body>
+
+</html>

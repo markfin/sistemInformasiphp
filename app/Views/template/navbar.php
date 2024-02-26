@@ -7,8 +7,6 @@
         <a href="#about">Tentang Kami</a>
         <a href="#menu">Menu</a>
         <a href="#kontak">Kontak</a>
-        <a href="/murid">Murid</a>
-        <a href="/guru">Guru</a>
 
     </div>
     <div class="navbar-extra">
